@@ -1,0 +1,3 @@
+# hackerrank
+
+Solution from hackerrank
